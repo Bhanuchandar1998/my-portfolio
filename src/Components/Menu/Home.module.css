@@ -1,0 +1,37 @@
+.discimage{
+    display:flex;
+    justify-content: space-between;
+}
+.disc{
+    position: relative;
+    margin-top: 13rem;
+    width: 50%;
+    left:2rem;
+    padding:1rem;
+    outline: none;
+    justify-content: space-between;
+}
+
+.Discpicture{
+    margin-top:10rem;
+    margin-right: 9rem;
+    height:15rem;
+    width:15rem;
+}
+.whatdoido{
+    margin-top: 4rem;
+}
+.whatdoido h3{
+    text-align: center;
+}
+.whattodocards{
+    align-items: center;
+    display: flex;
+    margin:1rem;
+    padding:1rem;
+}
+.cardclass{
+    margin:2rem;
+    height:5rem;
+    width:15rem;
+}
